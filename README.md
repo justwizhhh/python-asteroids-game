@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/w3titUAS)
+# Python Asteroids Game (ARCHIVE)
+
+A clone of the arcade game 'Asteroids', featuring rotation-based player movement, respawning asteroids that can be broken into pieces, enemy objects, a score system, and more.
+
+Made in ~2 months for a university assignment submission, as part of the "Games Tech 101' module at UWE Bristol (BSc Games Technology).
